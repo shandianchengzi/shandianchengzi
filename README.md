@@ -12,7 +12,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: center;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shandianchengzi&count_private=true&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@Public-Github-stats" alt="shandianchengzi-Public-Github-Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandianchengzi&layout=compact&hide=Ada,Verilog)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" />
 </div>
