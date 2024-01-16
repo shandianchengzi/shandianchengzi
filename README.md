@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/shandianchengzi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=shandianchengzi%2C+%E2%9D%A4%EF%B8%8F+from+HUST." alt="Typing SVG" /></a>
+  <a href="https://github.com/shandianchengzi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=shandianchengzi%2C+%E2%9D%A4%EF%B8%8F+from+HUST." alt="_generate with https://readme-typing-svg.herokuapp.com/demo/" /></a>
 </div>
 
 <picture>
