@@ -2,11 +2,13 @@
   <a href="https://github.com/shandianchengzi"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=shandianchengzi%2C+%E2%9D%A4%EF%B8%8F+from+HUST." alt="_generate with https://readme-typing-svg.herokuapp.com/demo/" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shandianchengzi/shandianchengzi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shandianchengzi/shandianchengzi/output/github-contribution-grid-snake.svg">
-  <img alt="_generated with [Platane/snk](https://github.com/Platane/snk)_" src="https://raw.githubusercontent.com/shandianchengzi/shandianchengzi/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shandianchengzi/shandianchengzi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shandianchengzi/shandianchengzi/output/github-contribution-grid-snake.svg">
+    <img alt="_generated with [Platane/snk](https://github.com/Platane/snk)_" src="https://raw.githubusercontent.com/shandianchengzi/shandianchengzi/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
